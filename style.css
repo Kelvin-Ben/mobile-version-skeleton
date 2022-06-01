@@ -1,0 +1,84 @@
+.container {
+    width: 375px;
+    height: 718px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: #FFFF;
+}
+.left {
+    top: 15px;
+    position: absolute;
+    width: 54px;
+    height: 16px;
+    left: 20px;
+}
+.right {
+    position: absolute;
+    width: 67px;
+    height: 12px;
+    left: 294px;
+    top: 15px;
+}
+.toolbar1 {
+    position: absolute;
+    width: 76px;
+    height: 20px;
+    top: 50px;
+}
+.toolbar2 {
+    position: absolute;
+    top: 60px;
+    left: 294px;
+}
+.name {
+    width: 327px;
+    height: 150px;
+    top: 114px;
+    left: 24px;
+    color: #172B4D;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    flex: none;
+}
+.text {
+    width: 327px;
+    height: 146px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    position: absolute;
+    top: 276px;
+    left: 24px;
+    color: #344563;
+    flex: none;
+}
+#lets-connect {
+    width: 117px;
+    height: 24px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #7f8cff;
+    size: 16px;
+    line-height: 24px;
+    position: absolute;
+    top: 400px;
+    left: 24px;
+}
+.icons {
+    width: 170px;
+    height: 20px;
+    top: 470px;
+    left: 24px;
+    position: absolute;
+}
