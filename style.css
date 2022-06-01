@@ -42,7 +42,7 @@
   top: 114px;
   left: 24px;
   color: #172b4d;
-  font-family: poppins;
+  font-family: 'Courier New', Courier, monospace;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -56,7 +56,7 @@
 .text {
   width: 327px;
   height: 146px;
-  font-family: poppins;
+  font-family: 'Courier New', Courier, monospace;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -71,7 +71,7 @@
 #lets-connect {
   width: 117px;
   height: 24px;
-  font-family: poppins;
+  font-family: 'Courier New', Courier, monospace;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
