@@ -23,34 +23,45 @@
   top: 15px;
 }
 
-.toolbar1 {
+.toolbar1 a {
   position: absolute;
-  width: 76px;
+  width: 150px;
   height: 20px;
   top: 50px;
+  left: 0;
+  color: #6070ff;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  font-weight: 1000;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 20px;
+  flex: none;
+  text-align: center;
 }
 
 .toolbar2 {
   position: absolute;
   top: 60px;
-  left: 294px;
+  left: 320px;
 }
 
 .name {
-  width: 327px;
+  width: 300px;
   height: 150px;
-  top: 114px;
+  top: 200px;
   left: 24px;
   color: #172b4d;
   font-family: 'Courier New', Courier, monospace;
   font-style: normal;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 52px;
   display: flex;
   align-items: center;
   position: absolute;
   flex: none;
+  flex-grow: 0;
 }
 
 .text {
@@ -62,31 +73,100 @@
   font-size: 16px;
   line-height: 24px;
   position: absolute;
-  top: 276px;
+  top: 370px;
   left: 24px;
   color: #344563;
   flex: none;
 }
 
 #lets-connect {
-  width: 117px;
+  width: 150px;
   height: 24px;
   font-family: 'Courier New', Courier, monospace;
   font-style: normal;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 20px;
   color: #7f8cff;
   size: 16px;
   line-height: 24px;
   position: absolute;
-  top: 450px;
+  top: 530px;
   left: 24px;
 }
 
 .icons {
-  width: 170px;
-  height: 20px;
-  top: 500px;
-  left: 24px;
+  position: relative;
+  top: 570px;
+  left: -18px;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  width: 150px;
+}
+
+#elipse11 {
+  top: 150px;
+  left: 5px;
+  position: absolute;
+}
+
+#elipse5 {
+  top: 155px;
+  left: 132px;
+  position: absolute;
+}
+
+#rectangle7 {
+  position: absolute;
+  top: 145px;
+  left: 130px;
+}
+
+#elipse3 {
+  top: 152px;
+  left: 323px;
+  position: absolute;
+}
+
+#rectangle4 {
+  top: 118px;
+  left: 294px;
+  position: absolute;
+}
+
+#elipse8 {
+  top: 110px;
+  left: 214px;
+  position: absolute;
+}
+
+#elipse12 {
+  top: 550px;
+  left: 300px;
+  position: absolute;
+}
+
+#elipse13 {
+  top: 560px;
+  left: 290px;
+  position: absolute;
+}
+
+#elipse15 {
+  top: 645px;
+  left: 53px;
+  position: absolute;
+}
+
+#elipse4 {
+  top: 657px;
+  left: 237px;
+  position: absolute;
+}
+
+#rectangle5 {
+  top: 653px;
+  left: 185px;
   position: absolute;
 }
